@@ -1,12 +1,10 @@
 # R-PCA-ON-USDA-National-Nutrient-Database
 Perform Principal Components Analysis on USDA NNDB dataset
 
-The dataset of Audit Data has over 8000 observations and 42 columns
+The dataset of USDA National Nutrient has over 8000 observations and 45 columns
 
 Since we have too many variables, we want to perform PCA to reduce dimension. 
 The goal of this analysis is extracting important variables from a lagrge set of variables available in the data set.
-
-
 
 I. The code directory holds all of codes that will be associated with project
 
